@@ -1,3 +1,11 @@
+> [!WARNING]
+> **This repository is deprecated and no longer maintained.**
+>
+> PlanDev examples have moved to the consolidated [`NASA-AMMOS/plandev-examples`](https://github.com/NASA-AMMOS/plandev-examples) repository.
+>
+> This example has been replaced by the [`orbiter`](https://github.com/NASA-AMMOS/plandev-examples/tree/main/examples/05-orbiter) example in the new repository.
+
+
 # PlanDev Multi-Mission Models - Orbiter Model
 
 This repository houses an example PlanDev orbiter mission model, built from a collection of spacecraft subsystem models that can 
